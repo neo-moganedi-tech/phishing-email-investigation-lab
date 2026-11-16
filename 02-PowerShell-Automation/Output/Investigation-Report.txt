@@ -1,0 +1,62 @@
+AUTOMATED PHISHING EMAIL INVESTIGATION
+======================================
+
+INVESTIGATION DETAILS
+
+Input file: C:\Users\NEO\Documents\Phishing-Email-Investigation-Lab\02-PowerShell-Automation\..\01-Phishing-Email\phishing-email.txt
+Analysis date: 11/16/2026 11:19:36
+
+EMAIL INFORMATION
+
+Sender: security@microsoft-support.invalid
+Reply-To: account-recovery@outlook-security.invalid
+Subject: URGENT: Your Microsoft Account Will Be Suspended!
+
+DOMAIN ANALYSIS
+
+Sender domain: microsoft-support.invalid
+Reply-To domain: outlook-security.invalid
+Domain mismatch: True
+
+DETECTED KEYWORDS
+
+urgent
+suspended
+verify
+immediately
+unusual activity
+account suspension
+
+EXTRACTED URLS
+
+https://microsoft-login-verify.invalid/account
+
+INVESTIGATION FINDINGS
+
+Sender and Reply-To domains do not match.
+One or more URLs found in email.
+Suspicious urgency or account-related language detected.
+
+INITIAL RISK ASSESSMENT
+
+Risk level: High
+
+RECOMMENDED ACTIONS
+
+- Do not click suspicious links.
+- Do not provide account credentials.
+- Verify sender identity through trusted channels.
+- Investigate URLs using approved threat intelligence tools.
+- Escalate suspicious emails to the security team.
+
+CONCLUSION
+
+The automated analysis identified suspicious indicators.
+Manual investigation and threat intelligence verification
+are required before reaching a final verdict.
+
+DISCLAIMER
+
+This tool performs basic heuristic analysis. It does not
+authenticate email headers, prove sender spoofing, or
+confirm that a URL is malicious.
