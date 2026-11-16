@@ -1,0 +1,22 @@
+
+From: Microsoft Account Security <security@microsoft-support.invalid>
+Reply-To: account-recovery@outlook-security.invalid
+Subject: URGENT: Your Microsoft Account Will Be Suspended!
+
+Dear User,
+
+We have detected unusual activity on your Microsoft account.
+
+To prevent your account from being permanently suspended,
+you must verify your account immediately.
+
+Click the link below to secure your account:
+
+https://microsoft-login-verify.invalid/account
+
+Failure to verify your account within 24 hours may result
+in permanent account suspension.
+
+Thank you,
+
+Microsoft Account Security Team
